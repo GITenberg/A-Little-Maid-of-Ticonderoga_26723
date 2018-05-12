@@ -1,0 +1,36 @@
+_repo: A-Little-Maid-of-Ticonderoga_26723
+_version: 0.1.0
+contributor:
+  illustrator:
+    agent_name: Smith, Wuanita
+    birthdate: 1866
+    deathdate: 1959
+    gutenberg_agent_id: '31882'
+    url: http://www.gutenberg.org/2009/agents/31882
+covers:
+- cover_type: archival
+  image_path: 26723-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Curtis, Alice Turner
+    alias: Turner, Alice
+    gutenberg_agent_id: '1841'
+    url: http://www.gutenberg.org/2009/agents/1841
+description: While visiting her aunt and cousin near Fort Ticonderoga, on the western
+  shore of Lake Champlain, Faith Carew learns a secret about the fort that concerns
+  Ethan Allen's "Green Mountain boys."
+gutenberg_issued: '2008-09-29'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '26723'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'United States -- History -- Revolution, 1775-1783 -- Juvenile fiction'
+- !lcc 'PZ'
+- !lcsh 'Vermont -- History -- Revolution, 1775-1783 -- Juvenile fiction'
+- !lcsh 'New York (State) -- History -- Revolution, 1775-1783 -- Juvenile fiction'
+title: A Little Maid of Ticonderoga
+url: http://www.gutenberg.org/ebooks/26723
